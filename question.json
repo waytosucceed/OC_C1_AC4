@@ -1,0 +1,49 @@
+[
+    {
+      "questionNo": "Q10",
+      "question": "Jack was showing the merchant how to break 57 + 34 into parts. Fill in the blanks to help him.<br><img width='60%' src='./images/1.png'>",
+      "options": ["7, 30", "5, 40", "7, 40", "50, 34"],
+      "correct": 0
+    },
+    {
+      "questionNo": "Q11",
+      "question": "A merchant wrote an equation but forgot one number. What is the missing number?<br><img width='80%' src='./images/2.png'>",
+      "options": ["20", "70", "80", "90"],
+      "correct": 0
+    },
+    {
+      "questionNo": "Q12",
+      "question": "A shopkeeper adds 236 and 489 by breaking them into parts. What is the correct way to solve it?",
+      "options": [
+        "(236 + 400) + 89",
+        "(200 + 300) + (36 + 89)",
+        "(200 + 400) + (30 + 80) + (6 + 9)",
+        "(200 + 300) + (30 + 80) + (6 + 89)"
+      ],
+      "correct": 2
+    },
+    {
+      "questionNo": "Q13",
+      "question": "Emma breaks 293 into parts as 200 + 90 + 3. If he adds it to 456, what should be the next step?",
+      "options": [
+        "Add 200 + 300, then add 90 + 50, then add 3 + 6",
+        "Add 200 + 90 + 3 first, then add 456",
+        "Add 200 + 400, then add 90 + 50, then add 3 + 6",
+        "Add 293 + 456 directly without breaking into parts"
+      ],
+      "correct": 2
+    },
+    {
+      "questionNo": "Q14",
+      "question": "Jack added 385 + 247 using breaking into parts. Which step is incorrect?<br><img width='60%' src='./images/3.png'>",
+      "options": ["Step 1", "Step 2", "Step 3", "None, all steps are correct"],
+      "correct": 3
+    },
+    {
+      "questionNo": "Q15",
+      "question": "Emma and Jack helped solve 892 + 376 by breaking it into parts. What is the correct sum?",
+      "options": ["1278", "1268", "1258", "1288"],
+      "correct": 1
+    }
+  ]
+  

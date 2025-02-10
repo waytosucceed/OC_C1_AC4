@@ -1,0 +1,59 @@
+[
+    {
+      "questionNo": 1,
+      "question": "Emma and Jack saw a merchant counting his coins. Can you solve this puzzle to help him?",
+      "options":["42","+","31","=",""],
+      "answers": ["42","+","31","=",""]
+    },
+    {
+      "questionNo": 2,
+      "question": "A merchant was struggling with his total earnings. Can you help solve it?",
+      "options":["54","+","12","=",""],
+      "answers": ["54","+","12","=","66"]
+      
+    },
+    {
+      "questionNo": 3,
+      "question": "One of the merchants needed to find the missing value. Fill in the blank to find the answer.",
+      "options":["61","+","20","=",""],
+      "answers": ["61","+","20","=","81"]
+    },
+    {
+      "questionNo": 4,
+      "question": "Jack noticed a merchant making a mistake in his addition. Help him solve it!",
+      "options":["33","+","22","=",""],
+      "answers": ["33","+","22","=","55"]
+    },
+    {
+      "questionNo": 5,
+      "question": "Emma found a puzzle written on a coin bag. Can you solve it?",
+      "options":["56","+","39","=",""],
+      "answers": ["56","+","39","=","95"]
+    },
+    {
+      "questionNo": 6,
+      "question": "The merchants needed to add up their coins quickly. Help solve it!",
+      "options":["47","+","28","=",""],
+      "answers": ["47","+","28","=","75"]
+    },
+    {
+      "questionNo": 7,
+      "question": "Jack helped a merchant but one number was missing. Help him complete it.",
+      "options":["53","+","29","=",""],
+      "answers": ["53","+","29","=","82"]
+      
+    },
+    {
+      "questionNo": 8,
+      "question": "A merchant was unsure about his final total. Can you help him with the solution?",
+      "options":["16","+","47","=",""],
+      "answers": ["16","+","47","=","63"]
+    },
+    {
+      "questionNo": 9,
+      "question": "Emma broke 68 + 34 into parts to find the sum. Can you do the same?",
+      "options":["68","+","34","=",""],
+      "answers": ["68","+","34","=","102"]
+    }
+  ]
+  
